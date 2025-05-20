@@ -1,6 +1,6 @@
 [submodule "customer_dashboard"]
 	path = customer_dashboard
-	url = git@github-personal:oleksii-zaprii/customer_dashboard.git
+	url = git@github.com:oleksii-zaprii/customer_dashboard.git
 [submodule "agent_portal"]
 	path = agent_portal
-	url = git@github-personal:oleksii-zaprii/agent_portal.git
+	url = git@github.com:oleksii-zaprii/agent_portal.git
