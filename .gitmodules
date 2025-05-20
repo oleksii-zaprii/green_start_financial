@@ -1,0 +1,8 @@
+[submodule "customer_dashboard"]
+	path = customer_dashboard
+	url = git@github.com-personal:oleksii-zaprii/customer_dashboard.git
+	branch = main
+[submodule "agent_portal"]
+	path = agent_portal
+	url = git@github.com-personal:oleksii-zaprii/agent_portal.git
+	branch = main
